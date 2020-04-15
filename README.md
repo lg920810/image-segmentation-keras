@@ -23,8 +23,12 @@ precision，recall
 ###
 训练
 运行 python train.py (若要修改参数，在train.py修改即可)
-或不在train.py修改参数，运行例如python train.py --image_size --batch_size
-
+或不在train.py修改参数，运行例如
+'''
+python train.py --image_size --batch_size
+'''
 ###
 测试
-运行python inference.py
+'''
+python inference.py
+'''
